@@ -1,6 +1,6 @@
 ## Contributing:
 
-* If you would like to contribute and collaborate for this repository, then please intimate us through email at jayeshjakkani07@gmail.com
+* If you would like to contribute and collaborate for this repository, then please intimate us through email at email@com
 
 ## Purpose of Contributing:
 
@@ -12,7 +12,7 @@
 
 ## Code of Conduct:
 
-* Please go through the [link](https://github.com/jayeshjakkani/SE21-project/blob/master/CODE_OF_CONDUCT.md) before you begin contributing.
+* Please go through the [link](https://github.com/git-ankit/SE21-project/blob/master/CODE_OF_CONDUCT.md) before you begin contributing.
 
 ## Pull Request Submission Guidelines
 
