@@ -147,7 +147,7 @@
 
             $.ajax({
                 type: "POST",
-                url: "/feedback",
+                url: "/feedback1",
                 dataType: "json",
                 contentType: "application/json;charset=UTF-8",
                 traditional: "true",
@@ -156,7 +156,7 @@
                 success: function (response) {
                     // console.log("->", response);
                     // $("#dataCollected").css("display", "block");
-                    window.location.href="/success";
+                    window.location.href="/attempt2";
                 },
                 error: function (error) {
                     console.log("ERROR ->" + error );

@@ -4,6 +4,7 @@ import pandas as pd
 from flask import jsonify, request, render_template
 import sys
 import os
+import random
 
 app_dir = os.path.dirname(os.path.abspath(__file__))
 code_dir = os.path.dirname(app_dir)
@@ -48,6 +49,13 @@ class Search:
 
     def resultsTop10(self, word):
         return self.results(word)[:10]
+    
+    def random(self):
+        res = []
+        for x in self.df["title"]:
+            res.append(x)
+        random.shuffle(res)
+        return res[:10]
 
 
 if __name__ == "__main__":
