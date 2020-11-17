@@ -58,6 +58,8 @@ Suggested me Movie: https://www.suggestmemovie.com/
 
 # Conclusion
 
+In conclusion, we find that there is little observed difference between the three movie recommendation sites. At best, this indicates that MovieRecommender is at least equivalent in performance, or slightly superior, to other movie recommendation sites. Most notably, we show that MovieRecommender has very similar performance across usability, interface, overall score, and the number of movies liked in the prediction. Additionally, MovieRecommender is also generally considered to have a higher response time than the two other utilities tested.
+
 # Threats to validity:
 ### Limited Sample:
 The results obtained are based on a sample of 10 people. This is not a sufficient number to arrive at conclusive results. Nevertheless, we commented on some notable trends in the observations. Similar arguments can be made regarding the diversity of the test group.
