@@ -46,14 +46,17 @@ Suggested me Movie: https://www.suggestmemovie.com/
 
 # Observations
 ![](Analysis/MetricsbyTool.PNG)
+The above visualization provides a comparision between the application that we created and 2 other popular movie recommender websites in terms of usability, interface, overall, number of likes. Users have liked suggestmemovie website better in these aspects as we can see from the results, but this project fares pretty well.
 
 ![](Analysis/RelevantRecommendations.PNG)
-
+In terms of Relevant Recommendations, All the 3 applications are similar as the users tend to have selected medium in most cases.
 ![](Analysis/ResponseTime.PNG)
-
+In terms of response time, The application we generated is slow compared to others as suggestmemovie and pickamovie are quciker as per the users.
 ![](Analysis/UseandRecommend.PNG)
-
+As a whole users are willing to use and recommend the other 2 applications rather than movierecommender, it may be a result of slow response time or reliabilty.
 ![](Analysis/QualitybyTool.PNG)
+The above visualization provides a overall view of each tools review.
+
 
 
 # Conclusion
