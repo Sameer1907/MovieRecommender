@@ -1,3 +1,4 @@
+# Results of Project 3
 
 # Methods :
 
@@ -42,3 +43,27 @@ Movie Recommender: https://github.com/git-ankit/MovieRecommender
 Pick a movie: https://pickamovieforme.com/
 
 Suggested me Movie: https://www.suggestmemovie.com/
+
+# Observations
+![](Analysis/MetricsbyTool.PNG)
+
+![](Analysis/RelevantRecommendations.PNG)
+
+![](Analysis/ResponseTime.PNG)
+
+![](Analysis/UseandRecommend.PNG)
+
+![](Analysis/QualitybyTool.PNG)
+
+
+# Conclusion
+
+# Threats to validity:
+### Limited Sample:
+The results obtained are based on a sample of 10 people. This is not a sufficient number to arrive at conclusive results. Nevertheless, we commented on some notable trends in the observations. Similar arguments can be made regarding the diversity of the test group.
+
+### Subjective results:
+The output of the tool varies from person to person, and the likeability of the suggestions depends on the individual. In short, the results are subjective. There is no way to test if the results are right or wrong. For instance, one subject might randomly enter their observations, and we have no way of identifying this. This alters the patterns in the observations.
+
+### Lack of knowledge of implementation details:
+We do not have a holistic picture of what happens under the hood. As a result, the test plan might not be as accurate as it could be.
