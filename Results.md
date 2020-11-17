@@ -50,7 +50,7 @@ The above visualization provides a comparision between the application that we c
 
 ![](Analysis/RelevantRecommendations.PNG)
 In terms of Relevant Recommendations, All the 3 applications are similar as the users tend to have selected medium in most cases.
-![](Analysis/ResponseTime.PNG)
+![](Analysis/ResponseTime1.PNG)
 In terms of response time, The application we generated is slow compared to others as suggestmemovie and pickamovie are quciker as per the users.
 ![](Analysis/UseandRecommend.PNG)
 As a whole users are willing to use and recommend the other 2 applications rather than movierecommender, it may be a result of slow response time or reliabilty.
